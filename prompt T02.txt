@@ -1,0 +1,15 @@
+Chat GPT Prompt
+1. Data nilai siswa disimpan dalam sebuah rak fisik yang tersusun rapat. Perhatikan pola penyimpanan pada gambar di bawah ini untuk memahami bagaimana kelompok siswa dipisahkan. Input:
+Jumlah total data (N).
+Deret nilai (n1, n2, …, n).
+Kode kelompok siswa
+Tugas Buatlah program yang mampu menentukan total nilai hanya untuk kelompok yang diminta.
+jelasin maksudnya apa dan apa aja yang diminta
+2. fungsi apa aja yang perlu dipakai untuk menyelesaikan soal ini?
+3. bagaimana menyelesaikan permasalahannya
+4. untuk memasukkan nama siswanya bagaimana?
+5. cek code nya apakah masih ada yang kurang sesuai
+6. apakah boleh tidak menggunakan input.close();?
+7. apa yang terjadi jika input.close(); tidak digunakan dalam code?
+8. untuk output dari code nya masih belum sesuai 
+untuk output aku mau keluar semuanya 

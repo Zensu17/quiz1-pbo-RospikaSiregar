@@ -9,3 +9,4 @@ test_02 :
 	
 test_03 :
 	cd bin && java Driver3
+it

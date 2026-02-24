@@ -1,0 +1,11 @@
+Chat GPT Prompt
+1. buatkan sistem yang mendukung operasional di laundry
+2. misalnya aku mau buat sistem laundry nya itu mulai dari pencatatan pelanggannya, kemudian dilanjutkan dengan mencatat order laundrynya lalu akan dihitung biaya laundry nya, kemudian akan di cetak struk dari laundry.
+apa yang harus dilakukan untuk membuat sistem laundry seperti itu?
+3. class dasar apakah diletakkan di dalam public class?
+4. gimana untuk alur di bagian fungsi public class?
+5. di structur code itu bagian class pelanggan sama class transaksi diletakkan di bagian mana?
+6. coba cek code nya apakah masih ada yang salah atau logikanya tidak benar
+7. waktu aku compile codenya masih ada yang salah 
+berikan perbaikan codenya
+8. bagaimana perbaikan keseluruhannya?
